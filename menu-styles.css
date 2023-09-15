@@ -1,0 +1,120 @@
+body {
+    background: #0A0C0E;
+    background-position: center;
+    background-size: 100%;
+    font-family: Garamond;
+    color: white;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  .products {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  section {
+    margin: 5%;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: #FFEC01;
+  }
+  
+  .est {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background: url(black-bg.jpg) black;
+    background-position: center;
+    background-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -5%;
+  }
+  
+  hr {
+    height: 2px;
+    width: 210px;
+    border-radius: 20%;
+    background-color: #FFEC01;
+    border-color: #FFEC01;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+    width: 100%;
+  }
+  
+  h1, h2 {
+    font-family: 'Brush Script MT', cursive;
+  }
+  
+  .item p {
+    display: inline-flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+
+  .details {
+    opacity: 70%;
+    font-size: 80%;
+    margin-left: auto;
+  }
+  
+  .flavor, .dessert, .snack {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    flex-direction: row-reverse;
+    width: 25%;
+  }
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color: yellow;
+  }
+  
+  a:active {
+    color: pink;
+  }
