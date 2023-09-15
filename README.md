@@ -1,5 +1,5 @@
 # Page Preview
-[Menu Page](https://docs.google.com/spreadsheets/d/1WoYG1RRBm9YBTXO-Mot5bU83RXPTSHuIjfSpC0uHd7A/edit#gid=617821128)
+[Menu Page](https://htmlpreview.github.io/?https://github.com/kasg888/Cafe-Menu-HTML/blob/main/Cafe%20Menu.html)
 
 # Tool & Technology Stack
 - HTML
